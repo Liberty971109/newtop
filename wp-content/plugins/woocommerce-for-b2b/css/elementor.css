@@ -1,0 +1,27 @@
+html, body{
+    -webkit-font-smoothing: antialiased;
+}
+
+.woocommerce-loop-product__title{
+    height: 60px;
+}
+
+.breadcrumb{
+    padding: 0;
+}
+
+.products .elementor-button{
+    margin-bottom: 20px;
+}
+
+.woocommerce ul.products li.product-category a img{
+    display: none !important;
+}
+
+.product-category .count{
+    float: right;
+}
+
+.woocommerce table.shop_attributes td{
+    padding-left: 10px !important;
+}
